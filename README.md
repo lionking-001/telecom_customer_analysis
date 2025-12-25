@@ -7,6 +7,14 @@ Using computed scores, customers were classified into **four priority tiers** to
 
 ---
 
+## Dashboard & Visual Insights
+
+### Overall Dashboard Overview
+![Overall Dashboard](images/Ninja_Telecoms_Dashboard.png)
+
+
+---
+
 ## Problem Statement
 Ninja Telecoms seeks to perform comprehensive customer profiling to better understand customer behavior and improve decision-making around loyalty programs, incentives, and service prioritization.
 
