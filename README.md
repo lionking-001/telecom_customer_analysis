@@ -10,7 +10,7 @@ Using computed scores, customers were classified into **four priority tiers** to
 ## Dashboard & Visual Insights
 
 ### Overall Dashboard Overview
-![Overall Dashboard](images/ninja_telecoms_dashboard.png)
+<img src="images/ninja_telecoms_dashboard.png" width="900" alt="Overall Dashboard Overview">
 
 
 ---
