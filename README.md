@@ -12,7 +12,6 @@ Using computed scores, customers were classified into **four priority tiers** to
 ### Overall Dashboard Overview
 <img src="images/ninja_telecoms_dashboard.png" width="900" alt="Overall Dashboard Overview">
 
-
 ---
 
 ## Problem Statement
