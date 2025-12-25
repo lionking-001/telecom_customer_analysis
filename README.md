@@ -1,7 +1,7 @@
 # NINJA TELECOMS – Customer Profiling & Segmentation Analysis
 
 ## Project Overview
-This project focuses on customer profiling and segmentation for **Ninja Telecoms** using predefined scoring criteria supplied by the business. Customers were evaluated based on their **data purchase consistency (Loyalty)** and **bonus data usage behavior** over a six-month period.
+This project focuses on customer profiling and segmentation for **Ninja Telecoms** using predefined scoring criteria supplied by the business. Customers were evaluated based on their data purchase consistency (Loyalty) and bonus data usage behavior over a six-month period.
 
 Using computed scores, customers were classified into **four priority tiers** to support targeted service delivery, incentives, and marketing strategies.
 
@@ -10,7 +10,8 @@ Using computed scores, customers were classified into **four priority tiers** to
 ## Dashboard & Visual Insights
 
 ### Overall Dashboard Overview
-<img src="images/ninja_telecoms_dashboard.png" width="900" alt="Ninja Telecoms Dashboard">
+<img src="https://raw.githubusercontent.com/lionking-001/telecom_customer_analysis/main/images/ninja_telecoms_dashboard.png" width="900" alt="Ninja Telecoms Dashboard">
+
 
 ---
 
